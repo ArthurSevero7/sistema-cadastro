@@ -1,4 +1,4 @@
-## Sistema de Cadastro de Alunos
+# Sistema de Cadastro de Alunos
 Projeto desenvolvido com o objetivo de praticar desenvolvimento web e integração com banco de dados MySQL.
 
 O sistema permite realizar operações de cadastro, consulta, atualização e exclusão de alunos.
@@ -32,19 +32,20 @@ sistema-cadastro/
 ├── package-lock.json
 ├── README.md
 └── server.js
+
 ## Como executar o projeto
 # 1. Pré-requisitos
 Node.js
 npm
 MySQL
-# 2. Clonar o repositório
+## 2. Clonar o repositório
 git clone URL_DO_REPOSITORIO
-# 3. Instalar as dependências
+## 3. Instalar as dependências
 npm install
-# 4. Configurar o banco de dados
+## 4. Configurar o banco de dados
 Execute o arquivo banco.sql no MySQL Workbench para criar o banco de dados e a tabela de alunos.
 
-# 5. Configurar as variáveis de ambiente
+## 5. Configurar as variáveis de ambiente
 Crie um arquivo .env na raiz do projeto com as seguintes informações:
 
 DB_HOST=127.0.0.1
@@ -54,7 +55,7 @@ DB_PASSWORD=sua_senha
 DB_NAME=sistema_cadastro
 Substitua os valores pelas credenciais do seu MySQL.
 
-# 6. Iniciar o servidor
+## 6. Iniciar o servidor
 npm start
 Acesse pelo navegador:
 
