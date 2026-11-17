@@ -1,3 +1,9 @@
+Alunos : 
+Arthur Teodoro Severo
+Kaio Kelvin De Souza
+Joao Pedro Santos Da Silva
+Tiago Da Silva
+
 # Sistema de Cadastro de Alunos
 
 Projeto desenvolvido com o objetivo de praticar desenvolvimento web e integração com banco de dados MySQL.
