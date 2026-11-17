@@ -1,7 +1,7 @@
 Alunos : 
-Arthur Teodoro Severo
-Kaio Kelvin De Souza
-Joao Pedro Santos Da Silva
+Arthur Teodoro Severo /
+Kaio Kelvin De Souza /
+Joao Pedro Santos Da Silva /
 Tiago Da Silva
 
 # Sistema de Cadastro de Alunos
